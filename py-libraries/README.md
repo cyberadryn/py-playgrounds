@@ -33,7 +33,7 @@ This repository provides a ready-to-use setup for experimentation, prototyping, 
 - **Computer Vision**
   - OpenCV  
 
-- [**Web Scraping**](https://github.com/cyberadryn/py-playgrounds/tree/f615be8ba61bd1a7e69f8ad6e2f19f58f02744e1/py-libraries/web_scraping)
+- [**Web Scraping**](https://github.com/cyberadryn/py-playgrounds/tree/f615be8ba61bd1a7e69f8ad6e2f19f58f02744e1/py-libraries/web_scraping) 
   - Beautiful Soup  
   - Scrapy  
   - Requests  
